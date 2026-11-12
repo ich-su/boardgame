@@ -25,4 +25,4 @@
 [github.com/ich-su/games](https://github.com/ich-su/games)
 
 страница на ich.su:
-[ich-su/boardgame](https://ich.su/boardgame)
+[ich.su/boardgame](https://ich.su/boardgame)

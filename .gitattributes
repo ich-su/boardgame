@@ -1,4 +1,5 @@
 text
 
 screenshots/ export-ignore
-
+.gitkeep export-ignore
+.gitattributes export-ignore

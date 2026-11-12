@@ -22,6 +22,8 @@
 * ![](./screenshots/03.png)
 * ![](./screenshots/04.png)
 
+#
+
 страница проекта на гитхабе:
 [github.com/ich-su/games](https://github.com/ich-su/games)
 
